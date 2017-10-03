@@ -7,3 +7,8 @@ I due sorgenti differiscono di poco: Speedyfight restituisce il numero di vittor
 
 ----
 Un pareggio avviene se entrambi i duellanti muoiono nello stesso turno. Gli attacchi sono infatti contemporanei.
+----
+Con le regole dell'immagine e i dati ottenuti da n molto grandi, si ottengono i seguenti risultati (approssimativi ed empirici):
+  vittoria cavaliere: 53%
+  vittoria drago: 44%
+  pareggio: 3%
