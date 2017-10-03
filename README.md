@@ -9,6 +9,7 @@ Un pareggio avviene se entrambi i duellanti muoiono nello stesso turno. Gli atta
 ----
 
 Con le regole dell'immagine e i dati ottenuti da n molto grandi, si ottengono i seguenti risultati (approssimativi ed empirici):
-  vittoria cavaliere: 53%
-  vittoria drago: 44%
-  pareggio: 3%
+
+	vittoria cavaliere: 53%
+	vittoria drago: 44%
+	pareggio: 3%
